@@ -46,7 +46,7 @@ const projectsData: Project[] = [
     githubUrl: 'https://github.com/augustos-dev',
     detailsUrl: 'https://github.com/augustos-dev/Oris',
     previewType: 'oris',   
-    imageUrl: 'https://kommodo.ai/i/DXmBROWD177bnJN7A1oZ',
+    imageUrl: '/Oris.png',
   },
   {
     id: 'promo-bot',
