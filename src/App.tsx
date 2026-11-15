@@ -5,7 +5,7 @@ import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import EducationAndContact from "./components/EducationAndContact";
 import Footer from "./components/Footer";
-import { Analytics } from "@vercel/analytics/react"
+
 
 function App() {
   return (
